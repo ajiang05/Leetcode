@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ajiang05/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ajiang05/Leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/ajiang05/Leetcode/tree/master/0066-plus-one) |
 | [0139-word-break](https://github.com/ajiang05/Leetcode/tree/master/0139-word-break) |
@@ -47,9 +48,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ajiang05/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ajiang05/Leetcode/tree/master/0066-plus-one) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ajiang05/Leetcode/tree/master/0049-group-anagrams) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/ajiang05/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
