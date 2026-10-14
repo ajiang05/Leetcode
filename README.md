@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/ajiang05/Leetcode/tree/master/0066-plus-one) |
 | [0139-word-break](https://github.com/ajiang05/Leetcode/tree/master/0139-word-break) |
 | [0560-subarray-sum-equals-k](https://github.com/ajiang05/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/ajiang05/Leetcode/tree/master/0139-word-break) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/ajiang05/Leetcode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
