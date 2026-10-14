@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ajiang05/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/ajiang05/Leetcode/tree/master/0139-word-break) |
 | [0560-subarray-sum-equals-k](https://github.com/ajiang05/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1706-where-will-the-ball-fall](https://github.com/ajiang05/Leetcode/tree/master/1706-where-will-the-ball-fall) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,4 +62,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/ajiang05/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/ajiang05/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [1706-where-will-the-ball-fall](https://github.com/ajiang05/Leetcode/tree/master/1706-where-will-the-ball-fall) |
+## Simulation
+|  |
+| ------- |
+| [1706-where-will-the-ball-fall](https://github.com/ajiang05/Leetcode/tree/master/1706-where-will-the-ball-fall) |
 <!---LeetCode Topics End-->
