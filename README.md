@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ajiang05/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ajiang05/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/ajiang05/Leetcode/tree/master/0139-word-break) |
+| [0269-alien-dictionary](https://github.com/ajiang05/Leetcode/tree/master/0269-alien-dictionary) |
 | [0560-subarray-sum-equals-k](https://github.com/ajiang05/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0875-koko-eating-bananas](https://github.com/ajiang05/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1706-where-will-the-ball-fall](https://github.com/ajiang05/Leetcode/tree/master/1706-where-will-the-ball-fall) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/ajiang05/Leetcode/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/ajiang05/Leetcode/tree/master/0139-word-break) |
+| [0269-alien-dictionary](https://github.com/ajiang05/Leetcode/tree/master/0269-alien-dictionary) |
 | [0443-string-compression](https://github.com/ajiang05/Leetcode/tree/master/0443-string-compression) |
 ## Dynamic Programming
 |  |
@@ -83,4 +85,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ajiang05/Leetcode/tree/master/0042-trapping-rain-water) |
+## Depth-First Search
+|  |
+| ------- |
+| [0269-alien-dictionary](https://github.com/ajiang05/Leetcode/tree/master/0269-alien-dictionary) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0269-alien-dictionary](https://github.com/ajiang05/Leetcode/tree/master/0269-alien-dictionary) |
+## Graph Theory
+|  |
+| ------- |
+| [0269-alien-dictionary](https://github.com/ajiang05/Leetcode/tree/master/0269-alien-dictionary) |
+## Topological Sort
+|  |
+| ------- |
+| [0269-alien-dictionary](https://github.com/ajiang05/Leetcode/tree/master/0269-alien-dictionary) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0269-alien-dictionary](https://github.com/ajiang05/Leetcode/tree/master/0269-alien-dictionary) |
 <!---LeetCode Topics End-->
