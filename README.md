@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/ajiang05/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/ajiang05/Leetcode/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/ajiang05/Leetcode/tree/master/0139-word-break) |
 | [0269-alien-dictionary](https://github.com/ajiang05/Leetcode/tree/master/0269-alien-dictionary) |
