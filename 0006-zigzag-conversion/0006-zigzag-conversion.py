@@ -7,7 +7,8 @@ class Solution:
         if numRows==1:
             return s
 
-        result = [[] for i in range(numRows)]
+        result = [""]*numRows
+        print(result)
         j = 0
         add = 0
 
@@ -17,15 +18,11 @@ class Solution:
             if j==len(result)-1:
                 add = -1
             
-            result[j].append(s[i])
+            result[j]+=s[i]
             j+=add
         
-        print(result)
+        return ''.join(result)
         
-        result_str = ''
-        for row in result:
-            result_str+=''.join(row)
         
-        return result_str
 
                 
