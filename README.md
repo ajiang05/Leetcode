@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ajiang05/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0139-word-break](https://github.com/ajiang05/Leetcode/tree/master/0139-word-break) |
 | [0213-house-robber-ii](https://github.com/ajiang05/Leetcode/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/ajiang05/Leetcode/tree/master/0279-perfect-squares) |
 | [0377-combination-sum-iv](https://github.com/ajiang05/Leetcode/tree/master/0377-combination-sum-iv) |
 ## Trie
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/ajiang05/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ajiang05/Leetcode/tree/master/0066-plus-one) |
+| [0279-perfect-squares](https://github.com/ajiang05/Leetcode/tree/master/0279-perfect-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0269-alien-dictionary](https://github.com/ajiang05/Leetcode/tree/master/0269-alien-dictionary) |
+| [0279-perfect-squares](https://github.com/ajiang05/Leetcode/tree/master/0279-perfect-squares) |
 ## Graph Theory
 |  |
 | ------- |
@@ -116,4 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ajiang05/Leetcode/tree/master/0010-regular-expression-matching) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/ajiang05/Leetcode/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/ajiang05/Leetcode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
