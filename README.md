@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/ajiang05/Leetcode/tree/master/0740-delete-and-earn) |
 | [0875-koko-eating-bananas](https://github.com/ajiang05/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0934-shortest-bridge](https://github.com/ajiang05/Leetcode/tree/master/0934-shortest-bridge) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/ajiang05/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1706-where-will-the-ball-fall](https://github.com/ajiang05/Leetcode/tree/master/1706-where-will-the-ball-fall) |
 ## Hash Table
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/ajiang05/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0647-palindromic-substrings](https://github.com/ajiang05/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0740-delete-and-earn](https://github.com/ajiang05/Leetcode/tree/master/0740-delete-and-earn) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/ajiang05/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Trie
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/ajiang05/Leetcode/tree/master/0049-group-anagrams) |
 | [0368-largest-divisible-subset](https://github.com/ajiang05/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/ajiang05/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Matrix
 |  |
 | ------- |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/ajiang05/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/ajiang05/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Stack
 |  |
 | ------- |
