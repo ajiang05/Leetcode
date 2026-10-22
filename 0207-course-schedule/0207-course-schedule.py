@@ -12,21 +12,24 @@ class Solution:
                 prereq[p[0]] = [p[1]]
         
         visited = set()
+        visiting = set()
 
         def dfs(course):
             if course in visited:
-                return False
+                return True
             if course not in prereq:
                 return True
+            if course in visiting:
+                return False
             
-            visited.add(course)
+            visiting.add(course)
 
             for c in prereq[course]:
                 if not dfs(c):
                     return False
             
-            visited.remove(course)
-            prereq.pop(course)
+            visiting.remove(course)
+            visited.add(course)
             return True
         
         for i in range(numCourses):
