@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/ajiang05/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0049-group-anagrams](https://github.com/ajiang05/Leetcode/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/ajiang05/Leetcode/tree/master/0139-word-break) |
+| [0224-basic-calculator](https://github.com/ajiang05/Leetcode/tree/master/0224-basic-calculator) |
 | [0269-alien-dictionary](https://github.com/ajiang05/Leetcode/tree/master/0269-alien-dictionary) |
 | [0443-string-compression](https://github.com/ajiang05/Leetcode/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/ajiang05/Leetcode/tree/master/0647-palindromic-substrings) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/ajiang05/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ajiang05/Leetcode/tree/master/0066-plus-one) |
+| [0224-basic-calculator](https://github.com/ajiang05/Leetcode/tree/master/0224-basic-calculator) |
 | [0279-perfect-squares](https://github.com/ajiang05/Leetcode/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/ajiang05/Leetcode/tree/master/0368-largest-divisible-subset) |
 ## Sorting
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ajiang05/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0224-basic-calculator](https://github.com/ajiang05/Leetcode/tree/master/0224-basic-calculator) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ajiang05/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0224-basic-calculator](https://github.com/ajiang05/Leetcode/tree/master/0224-basic-calculator) |
 ## Knapsack Problem
 |  |
 | ------- |
