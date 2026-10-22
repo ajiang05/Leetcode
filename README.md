@@ -119,25 +119,30 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/ajiang05/Leetcode/tree/master/0207-course-schedule) |
 | [0269-alien-dictionary](https://github.com/ajiang05/Leetcode/tree/master/0269-alien-dictionary) |
 | [0934-shortest-bridge](https://github.com/ajiang05/Leetcode/tree/master/0934-shortest-bridge) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/ajiang05/Leetcode/tree/master/0207-course-schedule) |
 | [0269-alien-dictionary](https://github.com/ajiang05/Leetcode/tree/master/0269-alien-dictionary) |
 | [0279-perfect-squares](https://github.com/ajiang05/Leetcode/tree/master/0279-perfect-squares) |
 | [0934-shortest-bridge](https://github.com/ajiang05/Leetcode/tree/master/0934-shortest-bridge) |
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/ajiang05/Leetcode/tree/master/0207-course-schedule) |
 | [0269-alien-dictionary](https://github.com/ajiang05/Leetcode/tree/master/0269-alien-dictionary) |
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/ajiang05/Leetcode/tree/master/0207-course-schedule) |
 | [0269-alien-dictionary](https://github.com/ajiang05/Leetcode/tree/master/0269-alien-dictionary) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/ajiang05/Leetcode/tree/master/0207-course-schedule) |
 | [0269-alien-dictionary](https://github.com/ajiang05/Leetcode/tree/master/0269-alien-dictionary) |
 ## Recursion
 |  |
