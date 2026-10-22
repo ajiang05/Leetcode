@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ajiang05/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0740-delete-and-earn](https://github.com/ajiang05/Leetcode/tree/master/0740-delete-and-earn) |
 | [0875-koko-eating-bananas](https://github.com/ajiang05/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0934-shortest-bridge](https://github.com/ajiang05/Leetcode/tree/master/0934-shortest-bridge) |
 | [1706-where-will-the-ball-fall](https://github.com/ajiang05/Leetcode/tree/master/1706-where-will-the-ball-fall) |
 ## Hash Table
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/ajiang05/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/ajiang05/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0934-shortest-bridge](https://github.com/ajiang05/Leetcode/tree/master/0934-shortest-bridge) |
 | [1706-where-will-the-ball-fall](https://github.com/ajiang05/Leetcode/tree/master/1706-where-will-the-ball-fall) |
 ## Simulation
 |  |
@@ -111,11 +113,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0269-alien-dictionary](https://github.com/ajiang05/Leetcode/tree/master/0269-alien-dictionary) |
+| [0934-shortest-bridge](https://github.com/ajiang05/Leetcode/tree/master/0934-shortest-bridge) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0269-alien-dictionary](https://github.com/ajiang05/Leetcode/tree/master/0269-alien-dictionary) |
 | [0279-perfect-squares](https://github.com/ajiang05/Leetcode/tree/master/0279-perfect-squares) |
+| [0934-shortest-bridge](https://github.com/ajiang05/Leetcode/tree/master/0934-shortest-bridge) |
 ## Graph Theory
 |  |
 | ------- |
