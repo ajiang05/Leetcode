@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0269-alien-dictionary](https://github.com/ajiang05/Leetcode/tree/master/0269-alien-dictionary) |
 | [0377-combination-sum-iv](https://github.com/ajiang05/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0560-subarray-sum-equals-k](https://github.com/ajiang05/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0740-delete-and-earn](https://github.com/ajiang05/Leetcode/tree/master/0740-delete-and-earn) |
 | [0875-koko-eating-bananas](https://github.com/ajiang05/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1706-where-will-the-ball-fall](https://github.com/ajiang05/Leetcode/tree/master/1706-where-will-the-ball-fall) |
 ## Hash Table
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ajiang05/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/ajiang05/Leetcode/tree/master/0139-word-break) |
 | [0560-subarray-sum-equals-k](https://github.com/ajiang05/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0740-delete-and-earn](https://github.com/ajiang05/Leetcode/tree/master/0740-delete-and-earn) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/ajiang05/Leetcode/tree/master/0279-perfect-squares) |
 | [0377-combination-sum-iv](https://github.com/ajiang05/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0647-palindromic-substrings](https://github.com/ajiang05/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0740-delete-and-earn](https://github.com/ajiang05/Leetcode/tree/master/0740-delete-and-earn) |
 ## Trie
 |  |
 | ------- |
