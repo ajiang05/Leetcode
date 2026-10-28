@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-shortest-bridge](https://github.com/ajiang05/Leetcode/tree/master/0934-shortest-bridge) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/ajiang05/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1706-where-will-the-ball-fall](https://github.com/ajiang05/Leetcode/tree/master/1706-where-will-the-ball-fall) |
+| [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/ajiang05/Leetcode/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/ajiang05/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/ajiang05/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/ajiang05/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/ajiang05/Leetcode/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 ## Trie
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/ajiang05/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0934-shortest-bridge](https://github.com/ajiang05/Leetcode/tree/master/0934-shortest-bridge) |
 | [1706-where-will-the-ball-fall](https://github.com/ajiang05/Leetcode/tree/master/1706-where-will-the-ball-fall) |
+| [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/ajiang05/Leetcode/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -159,4 +162,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/ajiang05/Leetcode/tree/master/0279-perfect-squares) |
+## Backtracking
+|  |
+| ------- |
+| [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/ajiang05/Leetcode/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/ajiang05/Leetcode/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
+## Bitmask
+|  |
+| ------- |
+| [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/ajiang05/Leetcode/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 <!---LeetCode Topics End-->
