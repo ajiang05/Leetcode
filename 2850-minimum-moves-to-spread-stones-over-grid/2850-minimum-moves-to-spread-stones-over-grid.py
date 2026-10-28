@@ -26,7 +26,6 @@ class Solution:
                     for _ in range(grid[r][c] - 1):
                         more_one.append((r,c))
 
-        used = []
         def backtrack(i):
             if i==len(zero):
                 return 0
@@ -35,7 +34,7 @@ class Solution:
             curr_zero = zero[i]
 
             for j in range(len(more_one)):
-                if j in used:
+                if more_one[j]==None:
                     continue
                 curr_one = more_one[j]
                 r_d = abs(curr_one[0]-curr_zero[0])
@@ -43,9 +42,9 @@ class Solution:
 
                 distance = r_d+c_d
                 
-                used.append(j)
+                more_one[j] = None
                 cost = distance+backtrack(i+1)
-                used.pop()
+                more_one[j] = curr_one
 
                 best = min(best,cost)
             
