@@ -14,24 +14,13 @@ class Solution:
         if len(cost)==2:
             return min(cost)
 
-        dp_0 = [0]*(len(cost)+1)
-        dp_1 = [0]*(len(cost)+1)
-
-        dp_0[0],dp_0[1] = cost[0],cost[1]+cost[0]
-
-        dp_1[0], dp_1[1] = float('inf'),cost[1]
+        dp = [0]*(len(cost)+1)
 
         for i in range(2,len(cost)+1):
-            if i==len(cost):
-                dp_0[i] = min(dp_0[i-1],dp_0[i-2])
-                dp_1[i] = min(dp_1[i-1],dp_1[i-2]) 
-                break
-            dp_0[i] = cost[i]+min(dp_0[i-1],dp_0[i-2])
-            dp_1[i] = cost[i]+min(dp_1[i-1],dp_1[i-2])
-
+            dp[i] = min(cost[i-1]+dp[i-1],cost[i-2]+dp[i-2])
         
         
-        return min(dp_0[-1],dp_1[-1])
+        return dp[len(cost)]
 
             
 
