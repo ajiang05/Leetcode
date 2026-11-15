@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ajiang05/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ajiang05/Leetcode/tree/master/0066-plus-one) |
 | [0224-basic-calculator](https://github.com/ajiang05/Leetcode/tree/master/0224-basic-calculator) |
+| [0258-add-digits](https://github.com/ajiang05/Leetcode/tree/master/0258-add-digits) |
 | [0279-perfect-squares](https://github.com/ajiang05/Leetcode/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/ajiang05/Leetcode/tree/master/0368-largest-divisible-subset) |
 ## Sorting
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ajiang05/Leetcode/tree/master/0258-add-digits) |
 | [1706-where-will-the-ball-fall](https://github.com/ajiang05/Leetcode/tree/master/1706-where-will-the-ball-fall) |
 ## Binary Search
 |  |
@@ -194,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ajiang05/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ajiang05/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
