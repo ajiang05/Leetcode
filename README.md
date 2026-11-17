@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ajiang05/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ajiang05/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/ajiang05/Leetcode/tree/master/0139-word-break) |
+| [0387-first-unique-character-in-a-string](https://github.com/ajiang05/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/ajiang05/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0740-delete-and-earn](https://github.com/ajiang05/Leetcode/tree/master/0740-delete-and-earn) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/ajiang05/Leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/ajiang05/Leetcode/tree/master/0139-word-break) |
 | [0224-basic-calculator](https://github.com/ajiang05/Leetcode/tree/master/0224-basic-calculator) |
 | [0269-alien-dictionary](https://github.com/ajiang05/Leetcode/tree/master/0269-alien-dictionary) |
+| [0387-first-unique-character-in-a-string](https://github.com/ajiang05/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/ajiang05/Leetcode/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/ajiang05/Leetcode/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
@@ -204,4 +206,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ajiang05/Leetcode/tree/master/0258-add-digits) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ajiang05/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ajiang05/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
