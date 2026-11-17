@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ajiang05/Leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/ajiang05/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ajiang05/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/ajiang05/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0139-word-break](https://github.com/ajiang05/Leetcode/tree/master/0139-word-break) |
 | [0213-house-robber-ii](https://github.com/ajiang05/Leetcode/tree/master/0213-house-robber-ii) |
 | [0269-alien-dictionary](https://github.com/ajiang05/Leetcode/tree/master/0269-alien-dictionary) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ajiang05/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/ajiang05/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0443-string-compression](https://github.com/ajiang05/Leetcode/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/ajiang05/Leetcode/tree/master/0647-palindromic-substrings) |
 ## String
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ajiang05/Leetcode/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/ajiang05/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0368-largest-divisible-subset](https://github.com/ajiang05/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/ajiang05/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/ajiang05/Leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
