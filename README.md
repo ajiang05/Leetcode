@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ajiang05/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/ajiang05/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0740-delete-and-earn](https://github.com/ajiang05/Leetcode/tree/master/0740-delete-and-earn) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/ajiang05/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/ajiang05/Leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ajiang05/Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Prefix Sum
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ajiang05/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/ajiang05/Leetcode/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/ajiang05/Leetcode/tree/master/0647-palindromic-substrings) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/ajiang05/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Dynamic Programming
 |  |
 | ------- |
