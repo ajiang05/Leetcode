@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-shortest-bridge](https://github.com/ajiang05/Leetcode/tree/master/0934-shortest-bridge) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/ajiang05/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1706-where-will-the-ball-fall](https://github.com/ajiang05/Leetcode/tree/master/1706-where-will-the-ball-fall) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/ajiang05/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/ajiang05/Leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/ajiang05/Leetcode/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [2974-minimum-number-game](https://github.com/ajiang05/Leetcode/tree/master/2974-minimum-number-game) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/ajiang05/Leetcode/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/ajiang05/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ajiang05/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/ajiang05/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Dynamic Programming
 |  |
 | ------- |
