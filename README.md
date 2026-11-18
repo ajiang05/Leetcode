@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-where-will-the-ball-fall](https://github.com/ajiang05/Leetcode/tree/master/1706-where-will-the-ball-fall) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/ajiang05/Leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/ajiang05/Leetcode/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
+| [2974-minimum-number-game](https://github.com/ajiang05/Leetcode/tree/master/2974-minimum-number-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/ajiang05/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/ajiang05/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/ajiang05/Leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [2974-minimum-number-game](https://github.com/ajiang05/Leetcode/tree/master/2974-minimum-number-game) |
 ## Matrix
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/ajiang05/Leetcode/tree/master/0258-add-digits) |
 | [1706-where-will-the-ball-fall](https://github.com/ajiang05/Leetcode/tree/master/1706-where-will-the-ball-fall) |
+| [2974-minimum-number-game](https://github.com/ajiang05/Leetcode/tree/master/2974-minimum-number-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -214,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ajiang05/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/ajiang05/Leetcode/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
