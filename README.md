@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ajiang05/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ajiang05/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/ajiang05/Leetcode/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ajiang05/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/ajiang05/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/ajiang05/Leetcode/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [2974-minimum-number-game](https://github.com/ajiang05/Leetcode/tree/master/2974-minimum-number-game) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/ajiang05/Leetcode/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/ajiang05/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ajiang05/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ajiang05/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Sorting
 |  |
 | ------- |
