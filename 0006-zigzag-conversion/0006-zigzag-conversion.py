@@ -1,28 +1,30 @@
 class Solution:
     def convert(self, s: str, numRows: int) -> str:
         """
-        We can just create an 2-d array with numRows
-        We append to each one ad once we reach ind we go again
+        We create an array of length num rows
+        We append each element of s where 
+            if its index 0 we +1
+            if its index length-1 we -1
+        We just join all the letters
         """
         if numRows==1:
             return s
-
-        result = [""]*numRows
-        print(result)
-        j = 0
-        add = 0
-
+        index = 0
+        sign = 1
+        arr = [[] for _ in range(numRows)]
         for i in range(len(s)):
-            if j==0:
-                add = 1
-            if j==len(result)-1:
-                add = -1
-            
-            result[j]+=s[i]
-            j+=add
-        
-        return ''.join(result)
-        
-        
+            if index==0:
+                sign = 1
+            if index==numRows-1:
+                sign = -1
 
-                
+            arr[index].append(s[i])
+            index+=sign
+        
+        result = ''
+
+        for letters in arr:
+            result = result+''.join(letters)
+        
+        return result
+        
