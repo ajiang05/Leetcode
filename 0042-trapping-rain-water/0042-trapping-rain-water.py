@@ -1,37 +1,36 @@
 class Solution:
     def trap(self, height: list[int]) -> int:
         """
-        Sliding window
-        We need to check left and right 
-        if left is greater and right is less we can start a while loop 
-
-        while r<len(height):
-            We check that it is less than left and once it is greater we add the total water
-
-        This doesnt work for the case where the elevation is decreasing
-
-        water[i] = min(left,right)-height[i]
-
-        You have to use sort of a prefix here where we have left
+        We want the max for forward and backwards
         """
-        l = 0
-        r = len(height)-1
-        rightMax, leftMax = 0,0
+        n = len(height)
+        forward = [0]*n
+        backward = [0]*n
+
+        max_f = 0
+        max_b = 0
+        for i in range(0,n):
+            max_f = max(max_f,height[i])
+            forward[i] = max_f
+
+            max_b = max(max_b,height[n-i-1])
+            backward[n-i-1] = max_b
+        
+        print(forward)
+        print(backward)
         water = 0
-
-        while l<r:
-            rightMax = max(height[r],rightMax)
-            leftMax = max(height[l],leftMax)
-
-            if leftMax<=rightMax:
-                water+=(leftMax-height[l])  
-                l+=1 
-            else:
-                water+=(rightMax-height[r])
-                r-=1
-                
+        for i in range(1,n-1):
+            min_h = min(forward[i],backward[i])
+            if height[i]<min_h:
+                water+=(min_h-height[i])
         
         return water
-        
+
+        """
+        [2,4,1,2
+        [4,4,4,4,4,5]
+        [5,5,5,5,5,5]
+        """
+
 
         
