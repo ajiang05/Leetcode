@@ -20,10 +20,11 @@ class Solution:
         for i in range(len(nums)):
             target = nums[i]*-1
             diff = {}
-
+            if nums[i]>0:
+                break
             if i>0 and nums[i]==nums[i-1]:
                 continue
-                
+
             for j in range(i+1,len(nums)):
                 if target-nums[j] in diff:
                     trips = [target*-1,nums[j],target-nums[j]]
